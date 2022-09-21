@@ -19,7 +19,7 @@ const Sudhan = {
 }; //I'm a Epic Object, UwU
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> 🚀 My Stats :> 🚀</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
